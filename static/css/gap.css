@@ -1,0 +1,76 @@
+body {
+    background-color: lavender ;
+    font: 1em/1.5 sans-seriff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: steelblue;
+}
+
+form {
+    margin: 18px auto;
+    width: 320px;
+    color: steelblue;
+}
+.navbar-toggler{
+    background-color: violet;
+}
+
+input {
+    padding: 8px;
+    font-size: inherit;
+}
+.login_btn {
+    width: 100%;
+    background: #3343ff !important;
+    color: white !important;
+}
+
+
+.Age {
+    display: flex;
+    margin-bottom: 20px;
+    width: 100%;
+    border: 2px solid purple;
+    border-radius: 10px;
+    background-color: #ffa8fe;
+}
+
+.chest_pain_type {
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid purple;
+    background-color: #ffa8fe;
+    border-radius: 10px;
+}
+
+.Resting_blood_pressure {
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid purple;
+    background-color: #ffa8fe;
+    border-radius: 10px;
+}
+
+.Serum_Cholestrol {
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid purple;
+    background-color: #ffa8fe;
+    border-radius: 10px;
+}
+
+.Fasting_Blood_Sugar {
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid purple;
+    background-color: #ffa8fe;
+    border-radius: 10px;
+}
+
